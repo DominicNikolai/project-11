@@ -8,13 +8,10 @@
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
 }
 
-a {
-  -webkit-tap-highlight-color: transparent;
-}
-
 body {
   height: 500vh;
   width: 100%;
+  -webkit-tap-highlight-color: transparent;
 
   .hero {
     position: fixed;
