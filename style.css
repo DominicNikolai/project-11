@@ -26,8 +26,8 @@ body {
 /***************************SCROLL/***************************/
 
 body {
-  --sb-track-color: #c5c5c1;
-  --sb-thumb-color: #a41f21;
+  --sb-track-color: #fff;
+  --sb-thumb-color: skyblue;
   --sb-size: 9px;
 }
 
